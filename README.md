@@ -1,4 +1,4 @@
-# Quantum Simulator - qbitaro  - PYPI - https://pypi.org/search/?q=qbitaro
+# Quantum Simulator - qbitaro  - PYPI - https://pypi.org/project/qbitaro/
 pip install qbitaro
 
 A simple quantum simulator built from scratch in Python. This project demonstrates foundational quantum computing concepts such as superdense coding and quantum teleportation, with support for basic gates, visualization, and state measurement.
