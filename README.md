@@ -40,7 +40,7 @@ pip install numpy matplotlib
 ##
 
 
-## Licenese
+## License
 
 MIT
 
