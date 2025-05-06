@@ -42,9 +42,7 @@ pip install numpy matplotlib
 
 ## Licenese
 
-MIT --- see LICENSE
-
-Note - "qbitaro" is properiatory and copyright protected.
+MIT
 
 
 # qbitaro
